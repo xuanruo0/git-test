@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello.git1");
         System.out.println("hello.git1");
         System.out.println("hello.git99");
+        System.out.println("push commit");
     }
 }
